@@ -22,7 +22,11 @@ Features:
 Select from 9 categories: Animal, Food, Holidays, Home, Leisure, Seasons, Sports, Weather, Miscellaneous
 
 Select Levels: Beginner, Advanced
+
 Hangman - head, body, left & right arms, left & right legs
+
 Sound – turn sound on/off
+
 Popup Windows: Help, About, Exit Game
+
 Read/Write to a file
