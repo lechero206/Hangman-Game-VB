@@ -1,4 +1,7 @@
 # Hangman-Game-VB
+
+![HangmanVB](https://github.com/user-attachments/assets/be05cf67-2bc3-4f64-a982-98204434e4b5)
+
 The HangMan game is built in Visual Basic (VB) and is a popular brain teaser game.
 
 Hang Man is easy to play, but can you become an expert? You can select either Beginner or Advanced level of play.
